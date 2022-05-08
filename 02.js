@@ -13,17 +13,7 @@ function stringMasLarga(strings) {
 
   // Tu código aca
 
-  let arreglo = strings.slice("")
-  let auxiliar = strings[0];
-    
-  for (var i = 0; i < arreglo.length; i++){
-
-    if (auxiliar.length < arreglo[i].length) {
-      auxiliar=arreglo[i]
-    }
-
-  }
-  return auxiliar
+  
   
 }
 

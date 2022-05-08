@@ -15,13 +15,10 @@ function buscarAmigo(amigos, nombre) {
 
   // Tu código aca:
 
-  var amigos = [{ nombre: 'toni', edad: 33 }, { nombre: 'Emi', edad: 25 }]
   
-  for (x in amigos) {
-      return amigos[x]
     }
 
-}
+
 
 
 

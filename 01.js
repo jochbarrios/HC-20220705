@@ -15,18 +15,7 @@ function menorMayor(numeros) {
 
   // Tu código aca:
   
-  var chiquito = numeros[0]
-  var grande = numeros[0]
-
-  for (var i = 0; i < numeros.length; i++) {
-    if (chiquito > numeros[i]) {
-      chiquito = numeros[i]
-    }
-    if (grande < numeros[i]) {
-      grande = numeros[i]
-    }
-  }
-  return [chiquito, grande]
+  
 }
       
 
